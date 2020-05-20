@@ -1,0 +1,33 @@
+.mat-toolbar{
+    background: #0D5EAF !important;
+    color: #fff;
+  }
+  input{
+    background-color: #EBF4FA;
+    border-radius: 50px 50px;
+    border-style: solid;
+    border-width: 0.5%;
+    border-color: rgb(206, 219, 243);
+    margin: 2%;
+}
+.flexExpand {
+    flex: 1 1 auto;
+}
+span{
+    margin-right: 1%;
+}
+custom-border{
+    height: inherit;
+}
+.underline{
+    text-decoration: underline;
+}
+.vl {
+    border-left: 1px solid white;
+    height: inherit;
+    margin-right: 1%;
+}
+#search{    
+    padding-left: 3%;
+    color: blue;    
+}

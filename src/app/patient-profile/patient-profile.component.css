@@ -1,0 +1,21 @@
+.header{
+    background-color: #B6CCF1;
+    font: 'Lato'
+}
+
+.field{
+    font-weight: 500;
+}
+.italicize{
+    font-style: italic;
+}
+.btn{
+    background-color: #0D5EAF;
+    color: white;
+    position: relative;
+    left: 85%;
+    border-radius: 25px 25px;    
+}
+.button{
+    
+}

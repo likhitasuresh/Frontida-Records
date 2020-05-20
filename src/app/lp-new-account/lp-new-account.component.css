@@ -1,0 +1,42 @@
+.header{
+    background-color: #B6CCF1;
+    font: 'Lato';
+    padding: 0.5%;
+}
+
+.field{
+    font-weight: 500;
+}
+.italicize{
+    font-style: italic;
+}
+.btn{
+    background-color: #0D5EAF;
+    color: white;
+    position: relative;    
+    border-radius: 25px 25px;   
+    
+}
+.button{
+    vertical-align: bottom; 
+}
+.col-sm{
+    padding: 1%;
+}
+
+input{
+    background-color: #EBF4FA;
+    border-radius: 5px 5px;
+    border-style: solid;
+    border-width: 0.5%;
+    border-color: rgb(206, 219, 243);
+    margin: 2%;
+}
+textarea{
+    background-color: #EBF4FA;
+    border-radius: 5px 5px;
+    
+}
+select{
+    max-width: 90%;
+}
